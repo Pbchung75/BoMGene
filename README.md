@@ -17,5 +17,7 @@ Some of results
 
 
 3. Number of selection feature with our exprimination
-![image](https://github.com/user-attachments/assets/04dbbdf7-fd2e-42bb-818e-d4170c1b3ad4)
+
+![image](https://github.com/user-attachments/assets/85f6e465-a3e6-4be1-83a0-9d3270e0d213)
+
 
