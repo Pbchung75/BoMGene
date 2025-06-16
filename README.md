@@ -8,9 +8,14 @@ Some of results
 
 1. Comparison charts of accuracy between feature selection methods and experimental algorithms
    
-![image](https://github.com/user-attachments/assets/75cf725f-0bf5-448d-9742-7cab9dcef7be)
+![image](https://github.com/user-attachments/assets/77c0dc4b-34e4-442d-b682-29c2d4bf267d)
 
-3. Comparison charts of training time between feature selection methods and experimental algorithms
+
+2. Comparison charts of training time between feature selection methods and experimental algorithms
    
-![image](https://github.com/user-attachments/assets/fcaed42c-8d2a-4396-afe9-511c53b9340e)
+![image](https://github.com/user-attachments/assets/40cbd466-c8d1-4614-9741-3ac676087445)
 
+
+3. Number of selection feature with our exprimination
+
+   ![image](https://github.com/user-attachments/assets/d298c815-4d1e-425b-9fa6-dcd089388347)
